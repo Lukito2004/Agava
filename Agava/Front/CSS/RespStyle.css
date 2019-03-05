@@ -1,0 +1,92 @@
+@media screen and (max-width: 1260px) {
+	.right {
+		display: none;
+	}
+	.left {
+		margin: auto;
+	}
+	.left h1, .left h2 {
+		text-align: center;
+	}
+	.images {
+		display: none;
+	}
+}
+@media screen and (max-width: 530px) {
+	.agavaimg {
+		width: 370px;
+		height: 225px;
+		margin: auto;
+	}
+}
+@media screen and (max-width: 1425px) {
+	.st1row, .st2row {
+		width: 500px;
+		height: 275px;
+	}
+}
+@media screen and (max-width: 1070px) {
+	.st2row, .st1row {
+		margin-top: 100px;
+	}
+}
+@media screen and (max-width: 520px) {
+	.st1row, .st2row {
+		width: 400px;
+		height: 230px;
+	}
+}
+@media screen and (max-width: 515px) {
+	.right2 {
+		width: 400px;
+		height: 230px;
+		margin-top: 180px;
+	}
+	.variants {
+		height: 915px!important;
+	}
+}
+@media screen and (max-width: 1285px) {
+	.variants {
+		height: 780px;
+	}
+	.variants h1 {
+		text-align: center;
+		margin: 0px;
+	}
+}
+@media screen and (max-width: 1433px) {
+	.exciting {
+		height: 965px;
+	}
+}
+@media screen and (max-width: 725px) {
+	.exciting {
+		height: 1745px;
+	}
+	.txt h1, .txt p {
+		text-align: center;
+	}
+	.txt p {
+		width: 400px!important;
+	}
+	.Discover {
+		text-align: center;
+	}
+}
+@media screen and (max-width: 1144px) {
+	.d-block {
+		height: 600px!important;
+	}
+	.slider {
+		height: 675px;
+	}
+}
+@media screen and (max-width: 900px) {
+	.d-block {
+		height: 400px!important;
+	}
+	.slider {
+		height: 475px;
+	}
+}
